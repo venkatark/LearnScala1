@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/i347143/work/PracticeWS/LearnScala1/src/test/scala/demo/TestHello.scala:15:13: could not find implicit value for parameter pos: org.scalactic.source.Position[0m
+[0m[[0m[31merror[0m] [0m[0m      assert(thello.sayhello("test") == "test")[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/i347143/work/PracticeWS/LearnScala1/src/test/scala/demo/TestHello.scala:13:46: could not find implicit value for parameter pos: org.scalactic.source.Position[0m
+[0m[[0m[31merror[0m] [0m[0m  test("tests hellow method works correctly"){[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

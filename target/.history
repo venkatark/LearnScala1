@@ -1,0 +1,14 @@
+;project {file:/Users/i347143/work/PracticeWS/LearnScala1/}learnscala1; reload
+{file:/Users/i347143/work/PracticeWS/LearnScala1/}learnscala1/test
+{file:/Users/i347143/work/PracticeWS/LearnScala1/}learnscala1/update
+{file:/Users/i347143/work/PracticeWS/LearnScala1/}learnscala1/state
+{file:/Users/i347143/work/PracticeWS/LearnScala1/}learnscala1/buildStructure
+run
+test
+run
+clear
+run
+ls
+cd ..
+ls
+exit
